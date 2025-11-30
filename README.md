@@ -20,7 +20,9 @@ To create this Dev Board, I used KiCAD! This was my first time using KiCAD, and 
 
 Bill of Materials: 
 <img width="916" height="662" alt="image" src="https://github.com/user-attachments/assets/ab895f48-5c57-450b-80bb-8ba266064681" />
+
 PCB:
 <img width="456" height="792" alt="image" src="https://github.com/user-attachments/assets/b6501137-f636-4f00-b5ed-c54ec252f92c" />
+
 Schematic:
 <img width="1303" height="928" alt="image" src="https://github.com/user-attachments/assets/7cb2d2cf-53bb-4d4e-a6ee-f849f2ab6c4e" />
